@@ -1,4 +1,4 @@
-{https://github.com/albertogasperin81/TestPWA/blob/master/docs/manifest.json
+{
   "name": "TestPWA",
   "short_name": "TestPWA",
   "start_url": "/",
